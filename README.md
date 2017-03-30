@@ -1,6 +1,6 @@
 # bootstrap-grid-100cols-with-xl-and-xxl
 
-A CSS file that contains the <a href='https://v4-alpha.getbootstrap.com/layout/grid/'>bootstrap grid</a> with xlg ( > 1550px width ) and xxlg ( > 2000 px width) classes. The grid is split into columns with 1/100 width of the parent div.
+A CSS file that contains the <a href='https://v4-alpha.getbootstrap.com/layout/grid/'>bootstrap grid</a> with xlg ( > 1500px width ) and xxlg ( > 2000 px width) classes. The grid is split into columns with 1/100 width of the parent div.
 
 # What is this?
 
